@@ -1,0 +1,4 @@
+.idea
+target
+*.iml
+#things which we dont want to place in github (dont send it)
